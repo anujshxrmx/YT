@@ -1,0 +1,6 @@
+{
+  "name": "GridWall 100",
+  "description": "Single-file 100-window simultaneous YouTube video wall with batch loading, responsive 10x10 grid density controls, and global, solo, and per-tile audio management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
